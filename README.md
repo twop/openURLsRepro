@@ -1,5 +1,7 @@
 # openURLsRepro
 
+You can open URLs by just pasting them into the browser address bar after starting the repro app
+
 
 ### badURL
 This one does not trigger `OpenURLs`
