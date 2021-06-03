@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openURLsTest", "openURLsTest.csproj", "{8645AF0A-EE22-47B1-AFA3-60B46CEC94AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8645AF0A-EE22-47B1-AFA3-60B46CEC94AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8645AF0A-EE22-47B1-AFA3-60B46CEC94AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8645AF0A-EE22-47B1-AFA3-60B46CEC94AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8645AF0A-EE22-47B1-AFA3-60B46CEC94AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0D1FC34-83F9-4ABD-86AD-E8F33444E656}
+	EndGlobalSection
+EndGlobal
